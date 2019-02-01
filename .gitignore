@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# except these files
+
+!*.md
+!*.sh
+!*.fa
+!.gitignore
+
+
+# even in subdirs
+
+./*
